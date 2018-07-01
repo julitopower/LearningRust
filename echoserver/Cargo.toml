@@ -1,0 +1,6 @@
+[package]
+name = "echoserver"
+version = "0.1.0"
+authors = ["juliopower <julio.delgadomangas@gmail.com>"]
+
+[dependencies]
